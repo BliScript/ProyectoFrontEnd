@@ -1,1 +1,27 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    background: rgb(202,112,255);
+    background: linear-gradient(90deg, rgba(202,112,255,1) 0%, rgba(196,102,231,1) 36%, rgba(105,54,231,1) 100%);
+}
+
+.nav-bar {
+    background-color: #292626;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main-title h1 {
+    font-family: 'Inconsolata', monospace;
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar .links  {
+	height: auto;
+	width: auto;
+}
+
+.loz span:hover {
+        color:#48fc38;
+}
+
