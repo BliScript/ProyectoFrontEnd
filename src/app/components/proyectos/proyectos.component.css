@@ -1,2 +1,14 @@
+#foto {
+    zoom: 10%;
+    margin-left:40%;
+}
 
+#foto2 {
+    zoom: 80%;
+    margin-left: 40%;
+}
 
+.loooz span:hover {
+    color: blueviolet;
+
+}

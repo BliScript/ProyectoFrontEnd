@@ -6,5 +6,15 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+
+  variable:string="Es una variable";
+
+  
+  texto(mensaje:string):string{
+    return mensaje;
+  }
+
+
+
   
 }
