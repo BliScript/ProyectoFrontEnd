@@ -13,6 +13,7 @@ import { ProyectosComponent } from './components/proyectos/proyectos.component';
 import { ButtonComponent } from './components/button/button.component';
 import { InfosobremiComponent } from './components/infosobremi/infosobremi.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { FotoperfilComponent } from './components/fotoperfil/fotoperfil.component';
 
 
 
@@ -31,6 +32,7 @@ import { FooterComponent } from './components/footer/footer.component';
     ButtonComponent,
     InfosobremiComponent,
     FooterComponent,
+    FotoperfilComponent,
 
   
   ],
