@@ -3,18 +3,18 @@ import { sobremi } from "./sobremi"
 export const INFO: sobremi[]= [
     {
         id: 1,
-        text: "Mi nombre es Irene Chiappara. Estoy estudiando desarrollo web - frontend",
+        text: "Mi nombre es Irene Chiappara",
     },
     {
         id: 2,
-        text: "Lorem a a a a a a a a aaa a a aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        text: "Soy de Santa Fe Capital",
     },
     {
         id: 3,
-        text: "Tengo que estudiar CSS y JS",
+        text: "Estoy estudiando Biotecnología en la UNL y aprendiendo programación web",
     },
     {
         id: 4,
-        text: "Estoy estudiando Biotecnología en la FBCB",
+        text: "Bye",
     }
 ]
