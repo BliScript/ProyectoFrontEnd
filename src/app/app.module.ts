@@ -4,7 +4,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { EncabezadoComponent } from './components/encabezado/encabezado.component';
-import { AcercaDeComponent } from './components/acerca-de/acerca-de.component';
+
 import { ExperienciaComponent } from './components/experiencia/experiencia.component';
 import { SkillsComponent } from './components/skills/skills.component';
 import { HttpClientModule } from '@angular/common/http';
@@ -13,8 +13,10 @@ import { ProyectosComponent } from './components/proyectos/proyectos.component';
 import { ButtonComponent } from './components/button/button.component';
 import { InfosobremiComponent } from './components/infosobremi/infosobremi.component';
 import { FooterComponent } from './components/footer/footer.component';
-import { FotoperfilComponent } from './components/fotoperfil/fotoperfil.component';
+
 import { BannerComponent } from './components/banner/banner.component';
+
+import { AcercaDeComponent } from './components/acerca-de/acerca-de.component';
 
 
 
@@ -24,7 +26,7 @@ import { BannerComponent } from './components/banner/banner.component';
   declarations: [
     AppComponent,
     EncabezadoComponent,
-    AcercaDeComponent,
+    
     ExperienciaComponent,
     SkillsComponent,
     EducacionComponent,
@@ -33,8 +35,10 @@ import { BannerComponent } from './components/banner/banner.component';
     ButtonComponent,
     InfosobremiComponent,
     FooterComponent,
-    FotoperfilComponent,
+ 
     BannerComponent,
+
+    AcercaDeComponent,
 
   
   ],
