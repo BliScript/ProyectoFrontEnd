@@ -3,7 +3,7 @@ import { sobremi } from "./sobremi"
 export const INFO: sobremi[]= [
     {
         id: 1,
-        text: "Mi nombre es Irene Chiappara",
+        text: "Hola, mi nombre es Irene Chiappara",
     },
     {
         id: 2,
@@ -11,10 +11,10 @@ export const INFO: sobremi[]= [
     },
     {
         id: 3,
-        text: "Estoy estudiando Biotecnología en la UNL y aprendiendo programación web",
+        text: "Estoy estudiando Biotecnología en la Facultad de Bioquímica y Ciencias Biológicas (UNL) y aprendiendo programación web",
     },
     {
         id: 4,
-        text: "Bye",
+        text: "",
     }
 ]

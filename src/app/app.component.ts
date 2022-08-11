@@ -7,14 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
 
-  variable:string="Es una variable";
 
-  
-  texto(mensaje:string):string{
-    return mensaje;
-  }
-
-
-
-  
 }
