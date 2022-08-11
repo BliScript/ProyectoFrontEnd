@@ -14,6 +14,7 @@ import { ButtonComponent } from './components/button/button.component';
 import { InfosobremiComponent } from './components/infosobremi/infosobremi.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { FotoperfilComponent } from './components/fotoperfil/fotoperfil.component';
+import { BannerComponent } from './components/banner/banner.component';
 
 
 
@@ -33,6 +34,7 @@ import { FotoperfilComponent } from './components/fotoperfil/fotoperfil.componen
     InfosobremiComponent,
     FooterComponent,
     FotoperfilComponent,
+    BannerComponent,
 
   
   ],
