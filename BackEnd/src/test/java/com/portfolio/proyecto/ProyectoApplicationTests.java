@@ -1,10 +1,10 @@
-package com.miweb.demo;
+package com.portfolio.proyecto;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class ProyectoApplicationTests {
 
 	@Test
 	void contextLoads() {
