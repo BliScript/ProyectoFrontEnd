@@ -11,7 +11,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { EducacionComponent } from './components/educacion/educacion.component';
 import { ProyectosComponent } from './components/proyectos/proyectos.component';
 import { ButtonComponent } from './components/button/button.component';
-import { InfosobremiComponent } from './components/infosobremi/infosobremi.component';
+
 import { FooterComponent } from './components/footer/footer.component';
 
 import { BannerComponent } from './components/banner/banner.component';
@@ -33,7 +33,7 @@ import { AcercaDeComponent } from './components/acerca-de/acerca-de.component';
     ProyectosComponent,
     EncabezadoComponent,
     ButtonComponent,
-    InfosobremiComponent,
+  
     FooterComponent,
  
     BannerComponent,
